@@ -1,0 +1,28 @@
+- git init and .gitignore (**/node_modules)
+- docker-compose.yml file
+- postgres service
+- postgres check
+- initialize npm project
+- Express hello world
+- TEST HELLO WORLD
+- Dockerfile
+- dockerignore
+- TEST DOCKER
+- util/database.js
+- controllers/users.js
+- models/users.js
+- routes/users.js
+- index.js
+- add to docker-compose (jsapp)
+- TEST WITH docker compose (JavaScript)
+- FLASK
+- requirements.txt
+- config/appconfig.cfg
+- wsgi.py
+- app.py (hello world and POST)
+- Dockerfile
+- .dockerignore
+- add to docker-compose.yml (pythonapp)
+- TEST with 2 INSERTS
+
+... add endpoints
